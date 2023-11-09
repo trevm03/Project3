@@ -1,0 +1,127 @@
+ID Race,Race,ID Ethnicity,Ethnicity,ID Year,Year,Hispanic Population Moe,City,ID Geography,Slug Geography,Population,share
+0,White Alone,0,Not Hispanic or Latino,2021,2021,2610,Charlotte,16000US3712000,charlotte-nc,347633,0.4019478049327588
+0,White Alone,1,Hispanic or Latino,2021,2021,2789,Charlotte,16000US3712000,charlotte-nc,39104,0.045213679265462714
+1,Black or African American Alone,0,Not Hispanic or Latino,2021,2021,3179,Charlotte,16000US3712000,charlotte-nc,300286,0.347203225
+1,Black or African American Alone,1,Hispanic or Latino,2021,2021,853,Charlotte,16000US3712000,charlotte-nc,3964,0.004583342
+2,American Indian & Alaska Native Alone,0,Not Hispanic or Latino,2021,2021,391,Charlotte,16000US3712000,charlotte-nc,1719,0.00198758
+2,American Indian & Alaska Native Alone,1,Hispanic or Latino,2021,2021,643,Charlotte,16000US3712000,charlotte-nc,1698,0.001963299
+3,Asian Alone,0,Not Hispanic or Latino,2021,2021,1680,Charlotte,16000US3712000,charlotte-nc,55951,0.064692885
+3,Asian Alone,1,Hispanic or Latino,2021,2021,179,Charlotte,16000US3712000,charlotte-nc,367,0.000424341
+4,Native Hawaiian & Other Pacific Islander Alone,0,Not Hispanic or Latino,2021,2021,154,Charlotte,16000US3712000,charlotte-nc,237,0.000274029
+4,Native Hawaiian & Other Pacific Islander Alone,1,Hispanic or Latino,2021,2021,52,Charlotte,16000US3712000,charlotte-nc,44,5.08746E-05
+5,Some Other Race Alone,0,Not Hispanic or Latino,2021,2021,637,Charlotte,16000US3712000,charlotte-nc,3308,0.003824848
+5,Some Other Race Alone,1,Hispanic or Latino,2021,2021,3091,Charlotte,16000US3712000,charlotte-nc,59330,0.068599826
+6,Two or More Races,0,Not Hispanic or Latino,2021,2021,2350.448680571435,Charlotte,16000US3712000,charlotte-nc,26819,0.031009249
+6,Two or More Races,1,Hispanic or Latino,2021,2021,2522.0995222234983,Charlotte,16000US3712000,charlotte-nc,24411,0.028225018528774813
+0,White Alone,0,Not Hispanic or Latino,2020,2020,2488,Charlotte,16000US3712000,charlotte-nc,355972,0.40749109974014674
+0,White Alone,1,Hispanic or Latino,2020,2020,2776,Charlotte,16000US3712000,charlotte-nc,51712,0.059196172
+1,Black or African American Alone,0,Not Hispanic or Latino,2020,2020,2786,Charlotte,16000US3712000,charlotte-nc,304651,0.34874251634099157
+1,Black or African American Alone,1,Hispanic or Latino,2020,2020,915,Charlotte,16000US3712000,charlotte-nc,5186,0.005936559
+2,American Indian & Alaska Native Alone,0,Not Hispanic or Latino,2020,2020,314,Charlotte,16000US3712000,charlotte-nc,2133,0.002441705
+2,American Indian & Alaska Native Alone,1,Hispanic or Latino,2020,2020,730,Charlotte,16000US3712000,charlotte-nc,1335,0.001528212
+3,Asian Alone,0,Not Hispanic or Latino,2020,2020,1511,Charlotte,16000US3712000,charlotte-nc,57539,0.065866502
+3,Asian Alone,1,Hispanic or Latino,2020,2020,182,Charlotte,16000US3712000,charlotte-nc,350,0.000400655
+4,Native Hawaiian & Other Pacific Islander Alone,0,Not Hispanic or Latino,2020,2020,137,Charlotte,16000US3712000,charlotte-nc,303,0.000346853
+4,Native Hawaiian & Other Pacific Islander Alone,1,Hispanic or Latino,2020,2020,54.99999999999999,Charlotte,16000US3712000,charlotte-nc,46,5.26575E-05
+5,Some Other Race Alone,0,Not Hispanic or Latino,2020,2020,664,Charlotte,16000US3712000,charlotte-nc,3472,0.003974495
+5,Some Other Race Alone,1,Hispanic or Latino,2020,2020,3308,Charlotte,16000US3712000,charlotte-nc,54692,0.062607461
+6,Two or More Races,0,Not Hispanic or Latino,2020,2020,2047.4359574843847,Charlotte,16000US3712000,charlotte-nc,22195,0.025407237
+6,Two or More Races,1,Hispanic or Latino,2020,2020,2138.059868198269,Charlotte,16000US3712000,charlotte-nc,13984,0.016007875728333162
+0,White Alone,0,Not Hispanic or Latino,2019,2019,2282,Charlotte,16000US3712000,charlotte-nc,355662,0.4148024608566347
+0,White Alone,1,Hispanic or Latino,2019,2019,2606,Charlotte,16000US3712000,charlotte-nc,62991,0.073465318
+1,Black or African American Alone,0,Not Hispanic or Latino,2019,2019,2368,Charlotte,16000US3712000,charlotte-nc,296802,0.3461550572936408
+1,Black or African American Alone,1,Hispanic or Latino,2019,2019,867,Charlotte,16000US3712000,charlotte-nc,5221,0.006089162
+2,American Indian & Alaska Native Alone,0,Not Hispanic or Latino,2019,2019,340,Charlotte,16000US3712000,charlotte-nc,2482,0.002894714
+2,American Indian & Alaska Native Alone,1,Hispanic or Latino,2019,2019,647,Charlotte,16000US3712000,charlotte-nc,1212,0.001413535
+3,Asian Alone,0,Not Hispanic or Latino,2019,2019,1101,Charlotte,16000US3712000,charlotte-nc,55631,0.064881477
+3,Asian Alone,1,Hispanic or Latino,2019,2019,132,Charlotte,16000US3712000,charlotte-nc,294,0.000342887
+4,Native Hawaiian & Other Pacific Islander Alone,0,Not Hispanic or Latino,2019,2019,158,Charlotte,16000US3712000,charlotte-nc,460,0.00053649
+4,Native Hawaiian & Other Pacific Islander Alone,1,Hispanic or Latino,2019,2019,37,Charlotte,16000US3712000,charlotte-nc,40,4.66513E-05
+5,Some Other Race Alone,0,Not Hispanic or Latino,2019,2019,655,Charlotte,16000US3712000,charlotte-nc,3097,0.003611978
+5,Some Other Race Alone,1,Hispanic or Latino,2019,2019,2476,Charlotte,16000US3712000,charlotte-nc,49404,0.057619033734728986
+6,Two or More Races,0,Not Hispanic or Latino,2019,2019,1566.6173751111023,Charlotte,16000US3712000,charlotte-nc,20864,0.024333324
+6,Two or More Races,1,Hispanic or Latino,2019,2019,601.9111230073756,Charlotte,16000US3712000,charlotte-nc,3265,0.003807913
+0,White Alone,0,Not Hispanic or Latino,2018,2018,1995,Charlotte,16000US3712000,charlotte-nc,353013,0.41944912792252004
+0,White Alone,1,Hispanic or Latino,2018,2018,2960,Charlotte,16000US3712000,charlotte-nc,63944,0.075978094
+1,Black or African American Alone,0,Not Hispanic or Latino,2018,2018,2197,Charlotte,16000US3712000,charlotte-nc,290429,0.34508698199049204
+1,Black or African American Alone,1,Hispanic or Latino,2018,2018,846.0000000000001,Charlotte,16000US3712000,charlotte-nc,4881,0.005799591
+2,American Indian & Alaska Native Alone,0,Not Hispanic or Latino,2018,2018,377,Charlotte,16000US3712000,charlotte-nc,2135,0.002536801
+2,American Indian & Alaska Native Alone,1,Hispanic or Latino,2018,2018,521,Charlotte,16000US3712000,charlotte-nc,996,0.001183445
+3,Asian Alone,0,Not Hispanic or Latino,2018,2018,1029,Charlotte,16000US3712000,charlotte-nc,54822,0.065139358
+3,Asian Alone,1,Hispanic or Latino,2018,2018,132,Charlotte,16000US3712000,charlotte-nc,231,0.000274474
+4,Native Hawaiian & Other Pacific Islander Alone,0,Not Hispanic or Latino,2018,2018,191,Charlotte,16000US3712000,charlotte-nc,447,0.000531124
+4,Native Hawaiian & Other Pacific Islander Alone,1,Hispanic or Latino,2018,2018,37,Charlotte,16000US3712000,charlotte-nc,39,4.63397E-05
+5,Some Other Race Alone,0,Not Hispanic or Latino,2018,2018,604,Charlotte,16000US3712000,charlotte-nc,2809,0.003337646
+5,Some Other Race Alone,1,Hispanic or Latino,2018,2018,2693,Charlotte,16000US3712000,charlotte-nc,44315,0.052654968
+6,Two or More Races,0,Not Hispanic or Latino,2018,2018,1328.5616282280623,Charlotte,16000US3712000,charlotte-nc,20348,0.024177440646569497
+6,Two or More Races,1,Hispanic or Latino,2018,2018,552.7503957483883,Charlotte,16000US3712000,charlotte-nc,3202,0.003804608
+0,White Alone,0,Not Hispanic or Latino,2017,2017,1901,Charlotte,16000US3712000,charlotte-nc,348789,0.4222320412560831
+0,White Alone,1,Hispanic or Latino,2017,2017,2833,Charlotte,16000US3712000,charlotte-nc,64423,0.077988282
+1,Black or African American Alone,0,Not Hispanic or Latino,2017,2017,1835,Charlotte,16000US3712000,charlotte-nc,285294,0.345367165
+1,Black or African American Alone,1,Hispanic or Latino,2017,2017,863,Charlotte,16000US3712000,charlotte-nc,4112,0.004977847
+2,American Indian & Alaska Native Alone,0,Not Hispanic or Latino,2017,2017,327,Charlotte,16000US3712000,charlotte-nc,1763,0.002134228
+2,American Indian & Alaska Native Alone,1,Hispanic or Latino,2017,2017,361,Charlotte,16000US3712000,charlotte-nc,760,0.00092003
+3,Asian Alone,0,Not Hispanic or Latino,2017,2017,979.9999999999999,Charlotte,16000US3712000,charlotte-nc,51259,0.062052393
+3,Asian Alone,1,Hispanic or Latino,2017,2017,102,Charlotte,16000US3712000,charlotte-nc,178,0.000215481
+4,Native Hawaiian & Other Pacific Islander Alone,0,Not Hispanic or Latino,2017,2017,187,Charlotte,16000US3712000,charlotte-nc,454,0.000549597
+4,Native Hawaiian & Other Pacific Islander Alone,1,Hispanic or Latino,2017,2017,32,Charlotte,16000US3712000,charlotte-nc,29,3.51064E-05
+5,Some Other Race Alone,0,Not Hispanic or Latino,2017,2017,549,Charlotte,16000US3712000,charlotte-nc,2616,0.00316684
+5,Some Other Race Alone,1,Hispanic or Latino,2017,2017,2710,Charlotte,16000US3712000,charlotte-nc,42652,0.051633053
+6,Two or More Races,0,Not Hispanic or Latino,2017,2017,1387.074619477986,Charlotte,16000US3712000,charlotte-nc,20506,0.024823862673413553
+6,Two or More Races,1,Hispanic or Latino,2017,2017,644.7053590594699,Charlotte,16000US3712000,charlotte-nc,3225,0.003904075
+0,White Alone,0,Not Hispanic or Latino,2016,2016,1817,Charlotte,16000US3712000,charlotte-nc,345898,0.4276501729650336
+0,White Alone,1,Hispanic or Latino,2016,2016,2610,Charlotte,16000US3712000,charlotte-nc,64390,0.079608424
+1,Black or African American Alone,0,Not Hispanic or Latino,2016,2016,2100,Charlotte,16000US3712000,charlotte-nc,280538,0.34684249178446996
+1,Black or African American Alone,1,Hispanic or Latino,2016,2016,806,Charlotte,16000US3712000,charlotte-nc,4623,0.005715635
+2,American Indian & Alaska Native Alone,0,Not Hispanic or Latino,2016,2016,308,Charlotte,16000US3712000,charlotte-nc,1714,0.0021191
+2,American Indian & Alaska Native Alone,1,Hispanic or Latino,2016,2016,317,Charlotte,16000US3712000,charlotte-nc,764,0.00094457
+3,Asian Alone,0,Not Hispanic or Latino,2016,2016,1124,Charlotte,16000US3712000,charlotte-nc,48042,0.059396613
+3,Asian Alone,1,Hispanic or Latino,2016,2016,143,Charlotte,16000US3712000,charlotte-nc,275,0.000339996
+4,Native Hawaiian & Other Pacific Islander Alone,0,Not Hispanic or Latino,2016,2016,82,Charlotte,16000US3712000,charlotte-nc,677,0.000837007
+4,Native Hawaiian & Other Pacific Islander Alone,1,Hispanic or Latino,2016,2016,18,Charlotte,16000US3712000,charlotte-nc,11,1.35998E-05
+5,Some Other Race Alone,0,Not Hispanic or Latino,2016,2016,534,Charlotte,16000US3712000,charlotte-nc,2170,0.002682874
+5,Some Other Race Alone,1,Hispanic or Latino,2016,2016,2652,Charlotte,16000US3712000,charlotte-nc,37383,0.046218384
+6,Two or More Races,0,Not Hispanic or Latino,2016,2016,1401.779583244099,Charlotte,16000US3712000,charlotte-nc,19336,0.023906018
+6,Two or More Races,1,Hispanic or Latino,2016,2016,564.3491826874564,Charlotte,16000US3712000,charlotte-nc,3013,0.003725115
+0,White Alone,0,Not Hispanic or Latino,2015,2015,1777,Charlotte,16000US3712000,charlotte-nc,344692,0.43514190095905125
+0,White Alone,1,Hispanic or Latino,2015,2015,2289,Charlotte,16000US3712000,charlotte-nc,64115,0.080939282
+1,Black or African American Alone,0,Not Hispanic or Latino,2015,2015,1873,Charlotte,16000US3712000,charlotte-nc,272317,0.34377512980709146
+1,Black or African American Alone,1,Hispanic or Latino,2015,2015,600,Charlotte,16000US3712000,charlotte-nc,4258,0.005375333
+2,American Indian & Alaska Native Alone,0,Not Hispanic or Latino,2015,2015,355,Charlotte,16000US3712000,charlotte-nc,1632,0.00206025
+2,American Indian & Alaska Native Alone,1,Hispanic or Latino,2015,2015,387,Charlotte,16000US3712000,charlotte-nc,947,0.0011955
+3,Asian Alone,0,Not Hispanic or Latino,2015,2015,1043,Charlotte,16000US3712000,charlotte-nc,45513,0.05745597
+3,Asian Alone,1,Hispanic or Latino,2015,2015,168,Charlotte,16000US3712000,charlotte-nc,287,0.000362311
+4,Native Hawaiian & Other Pacific Islander Alone,0,Not Hispanic or Latino,2015,2015,263,Charlotte,16000US3712000,charlotte-nc,428,0.000540311
+4,Native Hawaiian & Other Pacific Islander Alone,1,Hispanic or Latino,2015,2015,22,Charlotte,16000US3712000,charlotte-nc,14,1.76737E-05
+5,Some Other Race Alone,0,Not Hispanic or Latino,2015,2015,563,Charlotte,16000US3712000,charlotte-nc,1668,0.002105696
+5,Some Other Race Alone,1,Hispanic or Latino,2015,2015,2328,Charlotte,16000US3712000,charlotte-nc,34485,0.043534136140591845
+6,Two or More Races,0,Not Hispanic or Latino,2015,2015,1588.444836939577,Charlotte,16000US3712000,charlotte-nc,18603,0.023484574
+6,Two or More Races,1,Hispanic or Latino,2015,2015,681.6641401746172,Charlotte,16000US3712000,charlotte-nc,3178,0.004011932
+0,White Alone,0,Not Hispanic or Latino,2014,2014,2059,Charlotte,16000US3712000,charlotte-nc,340175,0.43904482019393215
+0,White Alone,1,Hispanic or Latino,2014,2014,2775,Charlotte,16000US3712000,charlotte-nc,61777,0.079732114
+1,Black or African American Alone,0,Not Hispanic or Latino,2014,2014,2413,Charlotte,16000US3712000,charlotte-nc,266655,0.3441566738555537
+1,Black or African American Alone,1,Hispanic or Latino,2014,2014,697,Charlotte,16000US3712000,charlotte-nc,4239,0.00547104
+2,American Indian & Alaska Native Alone,0,Not Hispanic or Latino,2014,2014,453,Charlotte,16000US3712000,charlotte-nc,1896,0.002447061
+2,American Indian & Alaska Native Alone,1,Hispanic or Latino,2014,2014,484,Charlotte,16000US3712000,charlotte-nc,1289,0.00166364
+3,Asian Alone,0,Not Hispanic or Latino,2014,2014,1069,Charlotte,16000US3712000,charlotte-nc,42770,0.055200844
+3,Asian Alone,1,Hispanic or Latino,2014,2014,125,Charlotte,16000US3712000,charlotte-nc,285,0.000367834
+4,Native Hawaiian & Other Pacific Islander Alone,0,Not Hispanic or Latino,2014,2014,224,Charlotte,16000US3712000,charlotte-nc,474,0.000611765
+4,Native Hawaiian & Other Pacific Islander Alone,1,Hispanic or Latino,2014,2014,28.999999999999996,Charlotte,16000US3712000,charlotte-nc,0,0
+5,Some Other Race Alone,0,Not Hispanic or Latino,2014,2014,425.00000000000006,Charlotte,16000US3712000,charlotte-nc,1441,0.001859818
+5,Some Other Race Alone,1,Hispanic or Latino,2014,2014,2499,Charlotte,16000US3712000,charlotte-nc,33047,0.042651912
+6,Two or More Races,0,Not Hispanic or Latino,2014,2014,1419.6918679769915,Charlotte,16000US3712000,charlotte-nc,17370,0.022418486
+6,Two or More Races,1,Hispanic or Latino,2014,2014,712.0372181283784,Charlotte,16000US3712000,charlotte-nc,3389,0.004373992
+0,White Alone,0,Not Hispanic or Latino,2013,2013,2128,Charlotte,16000US3712000,charlotte-nc,336258,0.4440350835492382
+0,White Alone,1,Hispanic or Latino,2013,2013,2634,Charlotte,16000US3712000,charlotte-nc,60508,0.079901965
+1,Black or African American Alone,0,Not Hispanic or Latino,2013,2013,2078,Charlotte,16000US3712000,charlotte-nc,260905,0.3445300140767327
+1,Black or African American Alone,1,Hispanic or Latino,2013,2013,714,Charlotte,16000US3712000,charlotte-nc,3929,0.005188319
+2,American Indian & Alaska Native Alone,0,Not Hispanic or Latino,2013,2013,389,Charlotte,16000US3712000,charlotte-nc,1981,0.002615948
+2,American Indian & Alaska Native Alone,1,Hispanic or Latino,2013,2013,564,Charlotte,16000US3712000,charlotte-nc,1241,0.001638764
+3,Asian Alone,0,Not Hispanic or Latino,2013,2013,991,Charlotte,16000US3712000,charlotte-nc,39151,0.051699640026516024
+3,Asian Alone,1,Hispanic or Latino,2013,2013,137,Charlotte,16000US3712000,charlotte-nc,294,0.000388233
+4,Native Hawaiian & Other Pacific Islander Alone,0,Not Hispanic or Latino,2013,2013,248,Charlotte,16000US3712000,charlotte-nc,433,0.000571785
+4,Native Hawaiian & Other Pacific Islander Alone,1,Hispanic or Latino,2013,2013,28.999999999999996,Charlotte,16000US3712000,charlotte-nc,0,0
+5,Some Other Race Alone,0,Not Hispanic or Latino,2013,2013,507,Charlotte,16000US3712000,charlotte-nc,1795,0.002370332
+5,Some Other Race Alone,1,Hispanic or Latino,2013,2013,2430,Charlotte,16000US3712000,charlotte-nc,31262,0.041282066
+6,Two or More Races,0,Not Hispanic or Latino,2013,2013,1312.605424337413,Charlotte,16000US3712000,charlotte-nc,16179,0.021364677172715965
+6,Two or More Races,1,Hispanic or Latino,2013,2013,641.4335507283665,Charlotte,16000US3712000,charlotte-nc,3342,0.004413175
